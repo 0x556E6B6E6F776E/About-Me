@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @DoULikeCookies
+- This is my GitHub page i guess.
+- Nothing to see here tho.
 
 
 <!---
