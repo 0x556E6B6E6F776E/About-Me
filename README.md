@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TooSwifty
 - This is my GitHub page i guess.
 - Nothing to see here though.
-- Discord: Zep#3981
 
 
 <!---
